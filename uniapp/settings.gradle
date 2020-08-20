@@ -1,0 +1,3 @@
+rootProject.name='uniapp'
+include ':app'
+include ':fenglin_agora'
